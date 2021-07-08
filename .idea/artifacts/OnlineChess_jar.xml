@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OnlineChess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OnlineChess_jar</output-path>
+    <root id="archive" name="OnlineChess.jar">
+      <element id="module-output" name="OnlineChess" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
