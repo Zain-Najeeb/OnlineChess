@@ -37,6 +37,7 @@ For the person who is joining a network.
 
 Now you two should be on the same network. To test if everything is working fine, please ping the other person by right clicking their name and clicking ping. If you do not get a response, it is highly likely that windows firewall is block hamachi. Please disable your firewall for Hamachi. 
 Both players will follow steps 1-9 that I listed above
+
 10. One of you, the server, will have to give their IPV4 address to the other player. If you do not know your IPV4 adress, type in cmd in your taskbar to open it. Type in "ipconfig", and press enter. You should see a line that describes your IPV4 adress. 
 11. The server, (the one that has given their ipv4 adress), will type in server in to the command prompt.
 
